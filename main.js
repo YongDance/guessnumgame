@@ -47,12 +47,12 @@ function play() {
     console.log ("chance", chances);
     console.log( userValue);
     if (userValue < computerNum ) { 
-        resultArea.textContent = "Up"
+        resultArea.textContent = "Up ⬆️⬆️"
         console.log("Up") ;
         
          
       }  else if (userValue > computerNum) {
-        resultArea.textContent = "Down"
+        resultArea.textContent = "Down ⬇️⬇️"
         console.log("Down");
        
       } else { 
