@@ -8,6 +8,7 @@ body {
     align-items: center;
     font-family: "East Sea Dokdo", cursive;
     background-image: url(image/soju.jpeg);
+    color:red; 
   }
   
   .container {
